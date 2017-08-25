@@ -1,0 +1,1 @@
+# sparkjava-testable-structure
